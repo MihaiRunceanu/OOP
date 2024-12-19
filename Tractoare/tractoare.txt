@@ -1,0 +1,6 @@
+1,den1,TIP,2
+2,den2,TIP,0
+3,den3,ttt,6
+4,den4,a,0
+5,den5,TIP,0
+12,den6,oop,0
