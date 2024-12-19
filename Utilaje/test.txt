@@ -1,0 +1,3 @@
+5,ceva,tip,4
+7,ceva,tip2,8
+10,ceva,tip2,8
