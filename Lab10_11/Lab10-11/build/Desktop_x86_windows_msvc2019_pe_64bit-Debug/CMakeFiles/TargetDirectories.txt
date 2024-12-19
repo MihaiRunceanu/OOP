@@ -1,0 +1,8 @@
+C:/Scoala/POO/Lab10_11/Lab10-11/build/Desktop_x86_windows_msvc2019_pe_64bit-Debug/CMakeFiles/Lab10-11.dir
+C:/Scoala/POO/Lab10_11/Lab10-11/build/Desktop_x86_windows_msvc2019_pe_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Scoala/POO/Lab10_11/Lab10-11/build/Desktop_x86_windows_msvc2019_pe_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Scoala/POO/Lab10_11/Lab10-11/build/Desktop_x86_windows_msvc2019_pe_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Scoala/POO/Lab10_11/Lab10-11/build/Desktop_x86_windows_msvc2019_pe_64bit-Debug/CMakeFiles/install.dir
+C:/Scoala/POO/Lab10_11/Lab10-11/build/Desktop_x86_windows_msvc2019_pe_64bit-Debug/CMakeFiles/install/local.dir
+C:/Scoala/POO/Lab10_11/Lab10-11/build/Desktop_x86_windows_msvc2019_pe_64bit-Debug/CMakeFiles/Lab10-11_autogen_timestamp_deps.dir
+C:/Scoala/POO/Lab10_11/Lab10-11/build/Desktop_x86_windows_msvc2019_pe_64bit-Debug/CMakeFiles/Lab10-11_autogen.dir
