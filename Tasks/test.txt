@@ -1,0 +1,5 @@
+1,Proiect1,Matei;Vlad;Mario;open
+2,Proiect2,George;Vlad;Marius;inprogress
+3,Proiect3,Matei;Ion;Mihaela;closed
+4,Proiect4,Vlad;Mihaela;Mario;inprogress
+5,Proiect5,Marius;Ion;George;open

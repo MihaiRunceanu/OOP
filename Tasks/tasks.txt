@@ -1,0 +1,13 @@
+1,Proiect1,Matei;Vlad;Mario;inprogress
+2,Proiect2,George;Vlad;Marius;inprogress
+3,Proiect3,Matei;Ion;Mihaela;closed
+4,Proiect4,Vlad;Mihaela;Mario;inprogress
+5,Proiect5,Marius;Ion;George;open
+6,Proiect6,Calin;Vlad;George;closed
+7,Proiect7,Matei;Robert;Mario;open
+8,Proiect8,Robert;Cosmin;Marius;open
+9,Proiect9,Matei;Darius;Cosmin;closed
+10,Proiect10,Robert;Mihaela;Calin;closed
+11,Proiect11,Razvan;Robert;inprogress
+12,Proiect12,Florin;Taner;closed
+100,proeict100,b1;inprogress
