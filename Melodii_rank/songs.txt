@@ -1,0 +1,4 @@
+1,alex,balta,8
+4,darius,darie,4
+5,mel,timu,2
+3,aaa,ml,5
